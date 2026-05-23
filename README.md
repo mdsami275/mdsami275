@@ -29,7 +29,7 @@ I am a 4th-year Artificial Intelligence & Data Science undergraduate at Muffakha
 * **[Healthcare Predictions: Heart Disease](https://github.com/mdsami275/heart_disease_prediction):** Diagnostic model built with Scikit-learn and deployed with an interactive Gradio UI.
 * **[Healthcare Predictions: Heart Failure](https://github.com/mdsami275/heart_failure_prediction):** Classify patients as high or low heart disease risk using anonymized medical data.
 * **[Financial Forecasting: Insurance Forecasting](https://github.com/mdsami275/insurance_cost_forecasting):** Predictive models for **Insurance Cost Forecasting**.
-* * **[Financial Forecasting: IPO Return Predictor](https://github.com/mdsami275/ipo_returns_prediction):** Predictive models for **IPO Returns Prediction**.
+* **[Financial Forecasting: IPO Return Predictor](https://github.com/mdsami275/ipo_returns_prediction):** Predictive models for **IPO Returns Prediction**.
 * **[Machine Failure Prediction](https://github.com/mdsami275/machine_failure_prediction):** Predictive maintenance model to forecast equipment breakdowns.
 * **[House Price Prediction](https://github.com/mdsami275/house_prediction):** Predict home sale prices from features like square footage, location, and number of rooms. 
 * **[Rice Classification](https://github.com/mdsami275/rice_classification):** This project focuses on rice classification based on Reinforced Learning Technique.
