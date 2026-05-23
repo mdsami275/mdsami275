@@ -7,10 +7,12 @@ I am a 4th-year Artificial Intelligence & Data Science undergraduate at Muffakha
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** Python, SQL
-* **Machine Learning:** Scikit-Learn, Pandas, NumPy
-* **Deployment & UI:** Streamlit, Gradio, FastAPI/Flask
-* **Tools:** Git, GitHub, VS Code
+* **Languages:** Python, SQL 
+* **Machine Learning & AI:** Scikit-Learn, TensorFlow, Keras, PyTorch, Hugging Face 
+* **Core Domains:** Natural Language Processing (NLP), Computer Vision, Time-Series Forecasting, Exploratory Data Analysis (EDA), Feature Engineering 
+* **Data Processing & Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+* **MLOps & Deployment:** Gradio, Streamlit, API Integration, Model Backtesting 
+* **Tools & Environments:** Git/GitHub, Jupyter Notebook / Google Colab, VS Code 
 
 ---
 
