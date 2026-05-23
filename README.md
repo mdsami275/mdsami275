@@ -17,7 +17,7 @@ I am a 4th-year Artificial Intelligence & Data Science undergraduate at Muffakha
 ### 🚀 Project Portfolio
 
 #### Natural Language Processing (NLP)
-* **[Sentiment Analysis (Deployed)]((https://github.com/mdsami275/sentiment_analysis_with_deployment)):** End-to-end sentiment classification model with a deployed user interface.
+* **[Sentiment Analysis (Deployed)](https://github.com/mdsami275/sentiment_analysis_with_deployment):** End-to-end sentiment classification model with a deployed user interface.
 * **[SMS Spam Classifier](link-to-repo):** A deployed application utilizing NLP techniques to classify messages in real-time.
 * **[Hate Speech Detection](link-to-repo):** Text classification model designed to identify and flag toxic content.
 
